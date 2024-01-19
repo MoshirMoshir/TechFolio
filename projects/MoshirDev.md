@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/MoshirDev/Carrot.png
-title: "MoshirDev"
+title: "Moshir.dev"
 date: 2022-07-24
 published: true
 labels:
