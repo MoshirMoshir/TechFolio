@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/BlueMaps/BlueMaps.jpg
 title: "BlueMaps"
-date: 2023
+date: 2023-07-09
 published: true
 labels:
   - HTML
