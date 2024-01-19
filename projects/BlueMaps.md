@@ -14,8 +14,8 @@ summary: "BlueMaps is an interactive map of the Blue Hole from Dave the Diver!"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/BlueMaps/Map1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/BlueMaps/About.png" class="img-thumbnail" >
+  <img width="700px" src="../img/BlueMaps/Map1.png" class="img-thumbnail" >
+  <img width="700px" src="../img/BlueMaps/About.png" class="img-thumbnail" >
 </div>
 
 BlueMaps is an interactive map of the Blue Hole from Dave the Diver! It was created with a combination of HTML, CSS, and Javascript. 
