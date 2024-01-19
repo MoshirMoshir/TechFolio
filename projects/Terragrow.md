@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Terragrow/TerragrowIcon.jpg
+image: img/Terragrow/TerragrowIcon.png
 title: "Terragrow"
 date: 2023
 published: true
