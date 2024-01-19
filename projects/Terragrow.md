@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Terragrow/TerragrowIcon.png
 title: "Terragrow"
-date: 2023
+date: 2023-04-30
 published: true
 labels:
   - C#
