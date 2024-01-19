@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MoshirDev/Carrot.jpg
+image: img/MoshirDev/Carrot.png
 title: "MoshirDev"
 date: 2022-07-24
 published: true
