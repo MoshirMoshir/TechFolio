@@ -17,6 +17,9 @@ summary: "My first Game Jam, and my first time making an actual game! Grow some 
   <img width="700px" src="../img/Terragrow/Terragrow.png" class="img-thumbnail" >
 </div>
 
+Code and Art by: Moshir
+SFX and Music composed by: Ying Sheng Tan
+
 Don't expect much as we did this completely on our own working a total of 18 hours across 3 days for the game jam. 
 
 This was an amazing experience and the first step in my journey to learn how to game dev! I would appreciate any kind of feedback and constructive criticism that you could provide, particularly with what was done well and what could have been done better. Though I hope at the very least you enjoy yourself and have fun!
