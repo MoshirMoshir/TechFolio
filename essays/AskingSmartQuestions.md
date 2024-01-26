@@ -11,8 +11,6 @@ labels:
   - Reflection
 ---
 
-<img width="700px" class="rounded float-start pe-4" src="../img/JavascriptReflection/Khan.gif">
-
 ## Introduction
 Communication is a cornerstone skill for software engineers, and asking questions the "smart way" is crucial for efficient problem-solving. StackOverflow, a popular platform for developer queries, provides valuable insights into the outcomes of smart and not-so-smart questions. In this essay, we analyze two StackOverflow questions—one demonstrating the "smart way" and another, the "not so smart way."
 
@@ -96,3 +94,4 @@ Smart questions demonstrate the asker's effort. The Java question showed that th
 
 This exercise underscores the significance of precision, detail, and adherence to platform norms in asking questions. Smart questions create a positive and collaborative environment, fostering effective problem-solving and community engagement. Aspiring software engineers should recognize the value of thoughtful inquiries, as demonstrated by the stark contrast between the outcomes of the "smart" and "not-so-smart" questions on StackOverflow.
 
+<sub><sup>ChatGPT was used to help with grammer and word choice</sup></sub>
