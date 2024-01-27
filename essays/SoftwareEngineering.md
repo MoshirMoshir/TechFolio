@@ -26,4 +26,4 @@ Looking ahead, my aspirations involve delving deeper into the technical aspects 
 The journey of exploring the essence of software engineering has not only unveiled its omnipresence in my past endeavors but has also sparked a desire to deepen my knowledge and apply it to future projects. The quest for technical proficiency and the commitment to modernizing existing work encapsulate my evolving relationship with the field of software engineering.
 
 
-<sub><sup>ChatGPT was used to help with grammer and word choice</sup></sub>
+<sub><sup>ChatGPT was used in assitance of creating this page</sup></sub>

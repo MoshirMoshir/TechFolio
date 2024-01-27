@@ -41,3 +41,6 @@ Visit [bluemaps.moshir.dev](https://bluemaps.moshir.dev/) and dive into the imme
 <div class="text-center p-4">
   <embed src="https://bluemaps.moshir.dev/mobile.html" style="width:900px; height: 700px;">
 </div>
+
+
+<sub><sup>ChatGPT was used in assitance of creating this page</sup></sub>
