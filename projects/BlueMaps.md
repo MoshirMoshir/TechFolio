@@ -10,7 +10,7 @@ labels:
   - CSS
   - Javascript
   - Game Dev
-summary: "BlueMaps is a static website developed to provide an interactive map for the game Dave the Diver."
+summary: "Discover a new world with BlueMaps - a static website developed with a blend of languages to provide an interactive map for the game Dave the Diver."
 ---
 <div class="text-center p-4">
   <img width="700px" src="../img/BlueMaps/About.png" class="img-thumbnail" >
