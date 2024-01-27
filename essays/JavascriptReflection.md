@@ -10,18 +10,23 @@ labels:
   - Learning
   - Reflection
 ---
+## **Coding Journey: Past, Present, and Future**
 
-<img width="700px" class="rounded float-start pe-4" src="../img/JavascriptReflection/Khan.gif">
+<div class="text-center p-4">
+  <img width="700px" class="rounded float-start pe-4" src="../img/JavascriptReflection/Khan.gif">
+</div>
 
-## The Beginning
-The very first time I used Javascript was at the age of 10, learning how to code on Khan Academy. Though I never learned to the extent of building fully functional applications, I was able to create simple programs that satiated my curiosity on how programs worked. I often would look into the code of the most popular programs posted on Khan Academy’s forums and change random lines with my own. This early exposure sparked my interest in Computer Science that would be my drive and passion to get me to where I am today.
+### **Early Exploration**
+My introduction to Javascript at the age of 10 on Khan Academy ignited a curiosity that led me to create simple programs, laying the foundation for my interest in Computer Science. Although I didn't delve into building fully functional applications, my early exposure set the stage for my coding journey.
 
-## Here and Now
-Thus far in ICS 314, I have gotten a renewed sense of javascript. As I haven't touched it in the last decade, I had forgotten the little I knew, and was a bit intimidated by the 100+ problems assigned to us over the weekend. This fear fleeted as I worked through each problem, and I soon realized how convenient Javascript makes it for programmers. Unlike the languages I used so far, Javascript tends to simplify syntax for the user’s convenience, instead of the typical strictness that adheres to the computer’s processing. It was particularly interesting that Javascript had an update like ES6 that furthered its convenience while also addressing previous issues. Compared to C that has seen pretty much no syntax update and only minor tweakage to improve compiling. Javascript is really an ‘abc’ coding language, but just like the alphabet, you can use it to build nearly anything you can think of.
+### **Rediscovering Javascript in ICS 314**
+In the present, I find myself in ICS 314, a software engineering course, reigniting my relationship with Javascript after a decade. Initially intimidated by over 100 coding problems assigned over the weekend, my fear diminished as I rediscovered the language's convenience. Unlike other languages, Javascript prioritizes user-friendly syntax, exemplified by its evolutionary updates like ES6, which enhance convenience and address previous issues. It's akin to an 'abc' coding language, versatile enough to build anything imaginable.
 
-## What the WOD?
-The WODs are truly beneficial to a student like me; when it comes to learning how to use a coding language, I best learn when I put coding into practice, instead of reading a book or listening to a lecture. I also appreciate that it simulates real-world environments, where we can utilize the internet, but still limited to our personal knowledge due to time constraints. Additionally, the time limit builds a stressed situation that allows us to get used to time crunches and high priority issues that need to be addressed immediately. I look forward to our first official WOD tomorrow and the many we’ll take over the semester.
+### **The WOD Experience**
+The WODs (Workouts of the Day), inspired by the intensity of a Crossfit workout, prove invaluable for hands-on learning. As someone who learns best by putting theory into practice, the WODs offer a simulated real-world environment. With internet access but constrained by time, it mirrors situations demanding quick thinking and prioritization—an invaluable skill in the professional realm. Anticipation grows before each weekly WOD, with relief and satsifaction upon their completion, marking a semester filled with these immersive coding challenges.
 
-## And so...
-All in all, Javascript is a great language to begin utilizing, especially with the context of this course and the WODs. Its user friendliness allows us to quickly pick it up and focus on the more important thought-processing that goes into coding as well as help quickly produce visible results for us to gauge how our code is functioning.  I am excited to continue to learn more about Javascript, as well as how we’ll utilize it in our professional portfolios.
+### **Javascript's User-Friendly Edge**
+Javascript emerges as an excellent language, particularly within the course context and WODs. Its user-friendliness allows for quick mastery, enabling us to focus on the essential thought processes in coding. JSFiddle, our chosen interactive coding environment for the WODs, adds another layer of immediacy by providing instant feedback and visible results. This combination facilitates a seamless learning experience, allowing quick iterations and enhancing our ability to gauge code functionality rapidly. I am excited about delving deeper into Javascript, exploring its nuances, and envisioning its role in shaping our professional portfolios.
 
+
+*Here's to the coding journey—past, present, and the promising future with Javascript.*
