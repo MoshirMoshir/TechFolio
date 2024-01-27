@@ -15,7 +15,7 @@ summary: "Discover a new world with BlueMaps - a static website developed with a
 <div class="text-center p-4">
   <img width="700px" src="../img/BlueMaps/About.png" class="img-thumbnail" >
 </div>
-/
+
 ## BlueMaps: Navigating the Depths with Technology
 
 BlueMaps is an engaging and interactive map showcasing the Blue Hole from Dave the Diver. Crafted with a blend of HTML, CSS, and Javascript, this project represents the use of languages on a static website to create a functioning and useful webapp.
@@ -37,7 +37,7 @@ There are exciting plans in the pipeline for BlueMaps, promising even more enric
 ### Experience BlueMaps Now:
 
 Visit [bluemaps.moshir.dev](https://bluemaps.moshir.dev/) and dive into the immersive world of Dave the Diver. Experience the conveniance of a digitalized map and use it to help your exploration of the Blue Hole!
-/
+
 <div class="text-center p-4">
   <img width="700px" src="../img/BlueMaps/Map1.png" class="img-thumbnail" >
 </div>
