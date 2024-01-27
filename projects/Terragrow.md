@@ -17,11 +17,25 @@ summary: "My first Game Jam, and my first time making an actual game! Grow some 
   <img width="700px" src="../img/Terragrow/Terragrow.png" class="img-thumbnail" >
 </div>
 
-Code and Art by: Moshir
-SFX and Music composed by: Ying Sheng Tan
+## **Game Development Odyssey: A 3-Day Journey**
 
-Don't expect much as we did this completely on our own working a total of 18 hours across 3 days for the game jam. 
+**Code and Art by:** Moshir  
+**SFX and Music composed by:** Ying Sheng Tan
 
-This was an amazing experience and the first step in my journey to learn how to game dev! I would appreciate any kind of feedback and constructive criticism that you could provide, particularly with what was done well and what could have been done better. Though I hope at the very least you enjoy yourself and have fun!
+In a whirlwind 18-hour sprint across 3 days, armed with nothing but passion and determination, we created this Unity-based game from scratch using C#. While the game might not boast the most intuitive design, the experience was nothing short of amazing and marked the inaugural step in my game development journey.
 
-If you'd like to check out the game, play it on [moshir.itch.io/terragrow](https://moshir.itch.io/terragrow)!
+**Key Highlights:**
+
+- **Independent Endeavor:** Crafted entirely by us, the project showcases both coding prowess and artistic flair in a testament to our commitment to learning and pushing boundaries.
+
+- **Swift Creation:** Despite the tight deadline of a game jam, the game emerged as a testament to our dedication, squeezing creativity and functionality into every hour of development.
+
+**Your Feedback Matters:**
+
+I invite you to delve into the game, explore its nuances, and share your thoughts. Whether you uncover elements done exceptionally well or aspects that could be improved, your feedback is invaluable. This project is not just a game; it's a stepping stone in my quest to master game development.
+
+**Enjoy the Experience:**
+
+While not flawless, we hope you find moments of joy in our creation. Have fun exploring, and thank you for joining us on this exhilarating game development adventure!
+
+<iframe frameborder="0" src="https://itch.io/embed/2041573" width="552" height="167"><a href="https://moshir.itch.io/terragrow">Terragrow by Moshir</a></iframe>
