@@ -10,8 +10,6 @@ labels:
   - Learning
   - Reflection
 ---
-
-
 ## Introduction
 
 Communication is a cornerstone skill for software engineers, and asking questions the "smart way" is crucial for efficient problem-solving. StackOverflow, a popular platform for developer queries, provides valuable insights into the outcomes of smart and not-so-smart questions. Here, I've analyze two StackOverflow questions—one demonstrating the "smart way" and another, the "not so smart way."
