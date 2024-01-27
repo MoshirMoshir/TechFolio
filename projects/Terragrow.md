@@ -10,7 +10,7 @@ labels:
   - ShaderLab
   - HLSL
   - Game Dev
-summary: "My first Game Jam, and my first time making an actual game! Grow some crops using the weather!"
+summary: "Discover the creation of our Unity-based game in just 3 days for a game jam, where we tackled the challenge of crafting a unique experience around the theme 'You Are the World'—coded from scratch, infused with passion, and a testament to our game development journey."
 ---
 ## **Game Development Odyssey: A 3-Day Journey**
 <div class="text-center p-4">
