@@ -38,4 +38,6 @@ There are exciting plans in the pipeline for BlueMaps, promising even more enric
 
 Visit [bluemaps.moshir.dev](https://bluemaps.moshir.dev/) and dive into the immersive world of Dave the Diver. Experience the conveniance of a digitalized map and use it to help your exploration of the Blue Hole!
 
-<embed src="https://bluemaps.moshir.dev/map.html" style="width:500px; height: 500px;">
+<div class="text-center p-4">
+  <embed src="https://bluemaps.moshir.dev/mobile.html" style="width:600px; height: 600px;">
+</div>
