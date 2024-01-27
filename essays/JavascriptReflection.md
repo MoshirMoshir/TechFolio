@@ -11,9 +11,8 @@ labels:
   - Reflection
 ---
 ## **Coding Journey: Past, Present, and Future**
-
 <div class="text-center p-4">
-  <img width="700px" class="rounded float-start pe-4" src="../img/JavascriptReflection/Khan.gif">
+  <img width="700px" class="img-thumbnail" src="../img/JavascriptReflection/Khan.gif">
 </div>
 
 ### **Early Exploration**
