@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Javascript Journey Thus Far"
+title: "Coding Journey: Past, Present, and Future"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
