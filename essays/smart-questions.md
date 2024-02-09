@@ -86,7 +86,7 @@ Q: Facebook Desktop Notifier
 
 I am a beginner programmer that have never used anything other than what's included in a language.
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
+I am trying to create a desktop application that notifies me anytime I get an update on facebook. 
 How should go about doing this? Thanks in advance.
 
 edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?

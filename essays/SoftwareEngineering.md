@@ -27,4 +27,4 @@ The exploration of software engineering's essence has not only exposed its omnip
 From uncovering the outer layers of software engineering, to understanding its impact to shaping a future intertwined with its principles, I look forward to learning more about software engineering this year.
 
 
-<sub><sup>ChatGPT was used in assitance of creating this page</sup></sub>
+<sub><sup>ChatGPT was used in assistance of creating this page</sup></sub>

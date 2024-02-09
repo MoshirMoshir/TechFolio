@@ -36,11 +36,11 @@ There are exciting plans in the pipeline for BlueMaps, promising even more enric
 
 ### Experience BlueMaps Now:
 
-Visit [bluemaps.moshir.dev](https://bluemaps.moshir.dev/) and dive into the immersive world of Dave the Diver. Experience the conveniance of a digitalized map and use it to help your exploration of the Blue Hole!
+Visit [bluemaps.moshir.dev](https://bluemaps.moshir.dev/) and dive into the immersive world of Dave the Diver. Experience the convenience of a digitalized map and use it to help your exploration of the Blue Hole!
 
 <div class="text-center p-4">
   <embed src="https://bluemaps.moshir.dev/mobile.html" style="width:900px; height: 700px;">
 </div>
 
 
-<sub><sup>ChatGPT was used in assitance of creating this page</sup></sub>
+<sub><sup>ChatGPT was used in assistance of creating this page</sup></sub>

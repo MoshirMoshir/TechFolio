@@ -31,4 +31,4 @@ Javascript emerges as an excellent language, particularly within the course cont
 *Here's to the coding journey—past, present, and the promising future with Javascript.*
 
 
-<sub><sup>ChatGPT was used in assitance of creating this page</sup></sub>
+<sub><sup>ChatGPT was used in assistance of creating this page</sup></sub>
