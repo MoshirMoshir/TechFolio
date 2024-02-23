@@ -44,7 +44,7 @@ Now, let's address the elephant in the room: why not just stick to raw HTML and 
 
 Finally, I myself have recently experienced first hand these advantages to UI frameworks and utilizing Bootstrap5. Take note of these two webpages: 
 <div class="text-center p-4">
-  <img width="700px" class="img-thumbnail" src="../img/UIFrameworksReflection/UIFrameworksReflection.png">
+  <img width="1000px" class="img-thumbnail" src="../img/UIFrameworksReflection/UIFrameworksReflection.png">
 </div>
 On the left is my personal website, utilizing a UI framework HTML5, but was used strictly as a template as I had little to no experience with the HTML5 library and tools that it offered; essentially, I had filled in the information I wanted, and for any additions, had to rely on my proprietary skillset of basic html and css. The process of adding new pages, content, and sections took hours or days to get close to what I desired my site to appear as. On the right is a recreation of the main page made in less than an hour with Bootstrap5. After only a week of learning the basics, I already had the capabilities to utilize the tools of Bootstrap5 to create a design exactly the way I wanted it in rapid development. 
 
