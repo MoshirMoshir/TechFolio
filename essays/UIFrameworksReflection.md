@@ -40,7 +40,7 @@ But perhaps the most compelling argument in favor of UI frameworks is the ecosys
 
 Now, let's address the elephant in the room: why not just stick to raw HTML and CSS? While it's true that hand-coding your styles can offer greater control and flexibility in certain scenarios, it comes at a cost: increased development time, heightened risk of inconsistencies, and a steeper learning curve for newcomers to the project. UI frameworks like Bootstrap5 strike a delicate balance between flexibility and convenience, empowering developers to focus on solving higher-order problems rather than getting bogged down in the nitty-gritty of styling.
 
-## **A Simple example**
+## **A Simple example:**
 
 Finally, I myself have recently experienced first hand these advantages to UI frameworks and utilizing Bootstrap5. Take note of these two webpages: 
 <div class="text-center p-4">
