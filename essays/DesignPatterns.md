@@ -12,7 +12,7 @@ labels:
 ---
 ## Fabric, Patterns, and Code
 In this short treatise, I will be going over what Design Patterns are, how they work, and why they're useful!
-<img class="rounded float-start pe-4" src="../img/DesignPatterns/Fabric.jpg">
+<img width="700px" class="rounded float-start pe-4" src="../img/DesignPatterns/Fabric.jpg">
 
 ### Fabric
 For this analogy to work, lets imagine code to be a piece of fabric. Some fabrics are simple, designed to be one color, no patterns, and meant to be used in a bigger project. Others, can have complex strings of wool woven into it, creating a rainbow of colors and multitude of patterns on the fabric; on it's own a centerpiece. Regardless, the way fabric is made is by repeatedly weaving together individual lines of wool, or another material, one after another until as a whole, they make up the fabric. In this way, Design Patterns similarly make up code; where while they may not necessarily be all the strings in a fabric, they may make up common implementations of certain designs, such as the way buttons are sewn on or the concept of plaid.
