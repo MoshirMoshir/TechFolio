@@ -47,6 +47,7 @@ var1 = Singleton.get_instance() # Assigns the Singleton to var1
 var2 = Singleton.get_instance() # Assigns the Singleton to var2
 
 print(var1 is var2) # Outputs True since var1 is referencing the same Singleton as var2
+
 ```
 
 As you see, the actual Design Pattern of Singleton is more of a concept of the way a class's constructor and instance is established, but can be implemented in any class that needs it, regardless of the actual use-case of the class.
@@ -73,6 +74,7 @@ public class PlayerManager {
     
     // Rest of code...
 }
+
 ```
 
 Just like the strings and fabric, Design Patterns are patterns that can make up code to satisfy certain desires of effects, using similar "Patterns" but can be made up of entirely different code, instance use-cases, and even coding languages!
