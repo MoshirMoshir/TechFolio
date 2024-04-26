@@ -70,6 +70,8 @@ public class PlayerManager {
         }
         return instance; // Otherwise, returns the existing one
     }
+    
+    // Rest of code...
 }
 ```
 
