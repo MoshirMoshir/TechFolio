@@ -10,7 +10,7 @@ labels:
   - Learning
   - Reflection
 ---
-## Fabric, Patterns, and Code
+## Design Patterns
 In this short treatise, I will be going over what Design Patterns are, how they work, and why they're useful!
 
 
