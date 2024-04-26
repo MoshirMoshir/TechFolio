@@ -51,7 +51,7 @@ print(var1 is var2) # Outputs True since var1 is referencing the same Singleton 
 
 As you see, the actual Design Pattern of Singleton is more of a concept of the way a class's constructor and instance is established, but can be implemented in any class that needs it, regardless of the actual use-case of the class.
 
-In my own code, I have needed to create a class that tracks players and won't create a new instance of itself so the player's progress can be continually tracked throughout a play-session:
+In my own code for a java text-based game, I have needed to create a class that tracks players and won't create a new instance of itself so the player's progress can be continually tracked throughout a play-session:
 
 ```java
 public class PlayerManager {
