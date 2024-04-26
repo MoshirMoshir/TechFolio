@@ -22,7 +22,7 @@ Take a look at the above image. At first glance, it may seems like a unique desi
 
 ### Code
 One such example of a Design Pattern is the _Singleton_. This Design Pattern ensures that a class has only one instance and provides a public point of access to it. 
-Here's a quick example in python:
+Here's a quick example of it in python:
 ```python
 >class Singleton:
     __instance = None   # Private variable to hold the instance
@@ -48,4 +48,26 @@ print(var1 is var2) # Outputs True since var1 is referencing the same Singleton 
 
 As you see, the actual Design Pattern of Singleton is more of a concept of the way a class's constructor and instance is established, but can be implemented in any class that needs it, regardless of the actual use-case of the class.
 
-Just like the strings and fabric, Design Patterns are patterns that can make up code to satisfy certain desires of effects, using similar "Patterns" but made up of entirely custom code and use-cases.
+In my own code, I have needed to create a class that tracks players and won't create a new instance of itself so the player's progress can be continually tracked throughout a play-session:
+
+```java
+public class PlayerManager {
+    private static PlayerManager instance; // Private variable to hold a constant instance
+    private List<Player> players;
+
+    // Private constructor to prevent instantiation from outside
+    private PlayerManager() {
+          players = new ArrayList<>();
+      }
+
+    // Method to get the singleton instance
+    public static PlayerManager getInstance() {
+        if (instance == null) { // If instance doesn't exist, creates one
+            instance = new PlayerManager();
+        }
+        return instance; // Otherwise, returns the existing one
+    }
+}
+```
+
+Just like the strings and fabric, Design Patterns are patterns that can make up code to satisfy certain desires of effects, using similar "Patterns" but can be made up of entirely different code, instance use-cases, and even coding languages!
