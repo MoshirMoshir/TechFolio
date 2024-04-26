@@ -14,7 +14,7 @@ labels:
 In this short treatise, I will be going over what Design Patterns are, how they work, and why they're useful!
 
 <br>
-<img width="700px" class="rounded float-start pe-4" src="../img/DesignPatterns/Fabric.jpg">
+<img width="700px" class="rounded pe-4" src="../img/DesignPatterns/Fabric.jpg">
 <br>
 
 ### Fabric
