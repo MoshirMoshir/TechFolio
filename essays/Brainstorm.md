@@ -27,5 +27,5 @@ With this new app, Students will be able to sign up, publish what they are procr
 
 ### Beyond the basics:
  - Push similar goals to users with similar tags in their own posts on the home page instead of just top rated
-- Have a reminder system that can send periodic emails to the user for each of their posts until they complete their goals (mark complete or delete, togglable)
+- Have a reminder system that can send periodic emails to the user for each of their posts until they complete their goals (mark complete or delete, toggleable)
 - Users can create groups and add each other to discuss similar goals or meet up to do them
