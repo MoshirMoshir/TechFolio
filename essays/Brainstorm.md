@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "ICS 314 Final Project Idea"
 date: 2024-03-28
 published: true
 labels:
