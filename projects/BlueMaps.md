@@ -42,6 +42,3 @@ Alternatively, you can directly check out the map within this embed:
 <div class="text-center p-4">
   <embed src="https://bluemaps.moshir.dev/map.html" style="width:1000px; height: 1000px;">
 </div>
-
-
-<sub><sup>ChatGPT was used in assistance of creating this page</sup></sub>
