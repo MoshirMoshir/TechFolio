@@ -25,6 +25,3 @@ Looking forward, my aspirations extend to a deeper exploration of the technical 
 ### **The Unfolding Journey**
 The exploration of software engineering's essence has not only exposed its omnipresence in my past endeavors but has also ignited a desire to deepen my knowledge and apply it to future projects. The ongoing pursuit of technical proficiency and the commitment to modernize existing work encapsulate my evolving relationship with the field of software engineering.
 From uncovering the outer layers of software engineering, to understanding its impact to shaping a future intertwined with its principles, I look forward to learning more about software engineering this year.
-
-
-<sub><sup>ChatGPT was used in assistance of creating this page</sup></sub>

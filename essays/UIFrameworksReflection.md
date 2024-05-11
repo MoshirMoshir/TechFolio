@@ -51,6 +51,3 @@ On the left is my personal website, utilizing a UI framework HTML5, but was used
 ## **Conclusion**
 
 While UI frameworks may present their fair share of challenges, the benefits they offer far outweigh the costs. From rapid prototyping to ensuring design consistency and fostering collaboration, frameworks like Bootstrap5 have become indispensable tools in the modern web developer's arsenal. So, the next time you find yourself grappling with the decision of whether to embrace a UI framework, remember this: the upfront investment of time and effort will pay dividends in the long run, enabling you to build better, more maintainable web applications.
-
-
-<sub><sup>ChatGPT was used in assistance of creating this page</sup></sub>

@@ -93,6 +93,3 @@ Smart questions demonstrate the asker's effort. The Java question showed that th
 
 ## Insights Gained
 This exercise underscores the significance of precision, detail, and adherence to platform norms in asking questions. Smart questions create a positive and collaborative environment, fostering effective problem-solving and community engagement. Aspiring software engineers should recognize the value of thoughtful inquiries, as demonstrated by the stark contrast between the outcomes of the "smart" and "not-so-smart" questions on StackOverflow.
-
-
-<sub><sup>ChatGPT was used in assistance of creating this page</sup></sub>
