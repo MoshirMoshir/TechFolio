@@ -36,34 +36,6 @@
       "keywords": [ "Windows", "Unix", "Linux", "Cisco IOS", "Git", "GitHub", "VSCode", "Eclipse", "IntelliJ", "Notepad", "Vi", "Vim" ]
     }
   ],
-  "projects": [
-    {
-      "name": "TrueNAS Server Management",
-      "startDate": "2020",
-      "endDate": "Present",
-      "description": "Managing and maintaining a self-built TrueNAS server for personal use and hosting services for friends and family.",
-      "highlights": [
-        "Configuring and managing TrueNAS Core",
-        "Utilizing Unix to create and manage jails and VMs with tools such as vi and shell",
-        "Setting up and maintaining services including Plex, Calibre, Sonarr, and Tautulli",
-        "Deploying and managing game servers by utilizing services such as MineOS or configuring them in custom jails",
-        "Utilizing SMB for file transfers between devices on the network"
-      ]
-    },
-    {
-      "name": "BlueMaps",
-      "startDate": "2023",
-      "endDate": "Present",
-      "description": "Developing and maintaining BlueMaps, a webapp that provides an interactive map of the Blue Hole from the game Dave the Diver",
-      "highlights": [
-        "Utilizing HTML, CSS, and Javascript to create the front-end of the static webpage",
-        "Working with GitHub Pages to host the website and manage version control",
-        "Implementing Leaflet to create an interactive Map and UI",
-        "Designing Overlays and Maps with Krita"
-      ],
-      "url": "https://bluemaps.moshir.dev/"
-    }
-  ],
   "work": [
     {
       "company": "Cyber Security Training",
@@ -150,6 +122,34 @@
       "studyType": "Military School",
       "startDate": "2016",
       "endDate": "2017"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TrueNAS Server Management",
+      "startDate": "2020",
+      "endDate": "Present",
+      "description": "Managing and maintaining a self-built TrueNAS server for personal use and hosting services for friends and family.",
+      "highlights": [
+        "Configuring and managing TrueNAS Core",
+        "Utilizing Unix to create and manage jails and VMs with tools such as vi and shell",
+        "Setting up and maintaining services including Plex, Calibre, Sonarr, and Tautulli",
+        "Deploying and managing game servers by utilizing services such as MineOS or configuring them in custom jails",
+        "Utilizing SMB for file transfers between devices on the network"
+      ]
+    },
+    {
+      "name": "BlueMaps",
+      "startDate": "2023",
+      "endDate": "Present",
+      "description": "Developing and maintaining BlueMaps, a webapp that provides an interactive map of the Blue Hole from the game Dave the Diver",
+      "highlights": [
+        "Utilizing HTML, CSS, and Javascript to create the front-end of the static webpage",
+        "Working with GitHub Pages to host the website and manage version control",
+        "Implementing Leaflet to create an interactive Map and UI",
+        "Designing Overlays and Maps with Krita"
+      ],
+      "url": "https://bluemaps.moshir.dev/"
     }
   ]
 }
