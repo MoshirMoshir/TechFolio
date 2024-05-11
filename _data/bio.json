@@ -36,53 +36,6 @@
       "keywords": [ "Windows", "Unix", "Linux", "Cisco IOS", "Git", "GitHub", "VSCode", "Eclipse", "IntelliJ", "Notepad", "Vi", "Vim" ]
     }
   ],
-  "work": [
-    {
-      "company": "Cyber Security Training",
-      "position": "Part-Time",
-      "startDate": "2021",
-      "endDate": "2023",
-      "summary": "Training sponsored by the Office of Naval Research offered to ROTC STEM students at UH Manoa. Utilizing Linux tools and security software to learn cyber security technical skills."
-    }
-  ],
-  "volunteer": [
-      {
-        "organization": "TrueNAS Server Management",
-        "startDate": "2020",
-        "endDate": "Present",
-        "summary": "Managing and maintaining a self-built TrueNAS server for personal use and hosting services for friends and family.",
-        "highlights": [
-          "Configuring and managing TrueNAS Core",
-          "Utilizing Unix to create and manage jails and VMs with tools such as vi and shell",
-          "Setting up and maintaining services including Plex, Calibre, Sonarr, and Tautulli",
-          "Deploying and managing game servers by utilizing services such as MineOS or configuring them in custom jails",
-          "Utilizing SMB for file transfers between devices on the network"
-        ]
-      },
-      {
-        "organization": "BlueMaps",
-        "startDate": "2023",
-        "endDate": "Present",
-        "summary": "Developing and maintaining BlueMaps, a webapp that provides an interactive map of the Blue Hole from the game Dave the Diver",
-        "highlights": [
-          "Utilizing HTML, CSS, and Javascript to create the front-end of the static webpage",
-          "Working with GitHub Pages to host the website and manage version control",
-          "Implementing Leaflet to create an interactive Map and UI",
-          "Designing Overlays and Maps with Krita"
-        ],
-        "url": "https://bluemaps.moshir.dev/"
-      },
-      {
-        "organization": "CyberPatriots",
-        "position": "Cisco Security Lead",
-        "startDate": "2019",
-        "endDate": "2020",
-        "summary": "CyberPatriot is the National Youth Cyber Education Program created by the Air & Space Forces Association to inspire K-12 students toward careers in cybersecurity or other science, technology, engineering, and mathematics (STEM) disciplines critical to our nation's future. At the core of the program is the National Youth Cyber Defense Competition, the nation's largest cyber defense competition that puts high school and middle school students in charge of securing virtual networks.",
-        "highlights": [
-          "Team 2 Cisco Networking Security Lead for Civil Air Patrol Squadron 56"
-        ]
-      }
-    ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -140,5 +93,54 @@
       "startDate": "2016",
       "endDate": "2017"
     }
-  ]
+  ],
+  "work": [
+    {
+      "company": "Cyber Security Training",
+      "position": "Part-Time",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Training sponsored by the Office of Naval Research offered to ROTC STEM students at UH Manoa. Utilizing Linux tools and security software to learn cyber security technical skills."
+    }
+  ],
+  "volunteer": [
+      {
+        "organization": "Server Management",
+        "position": "TrueNAS Core Server",
+        "startDate": "2020",
+        "endDate": "Present",
+        "summary": "Managing and maintaining a self-built TrueNAS server for personal use and hosting services for friends and family.",
+        "highlights": [
+          "Configuring and managing TrueNAS Core",
+          "Utilizing Unix to create and manage jails and VMs with tools such as vi and shell",
+          "Setting up and maintaining services including Plex, Calibre, Sonarr, and Tautulli",
+          "Deploying and managing game servers by utilizing services such as MineOS or configuring them in custom jails",
+          "Utilizing SMB for file transfers between devices on the network"
+        ]
+      },
+      {
+        "organization": "Webapp Development",
+        "position": "BlueMaps",
+        "startDate": "2023",
+        "endDate": "Present",
+        "summary": "Developing and maintaining BlueMaps, a webapp that provides an interactive map of the Blue Hole from the game Dave the Diver",
+        "highlights": [
+          "Utilizing HTML, CSS, and Javascript to create the front-end of the static webpage",
+          "Working with GitHub Pages to host the website and manage version control",
+          "Implementing Leaflet to create an interactive Map and UI",
+          "Designing Overlays and Maps with Krita"
+        ],
+        "url": "https://bluemaps.moshir.dev/"
+      },
+      {
+        "organization": "CyberPatriots",
+        "position": "Cisco Security Lead",
+        "startDate": "2019",
+        "endDate": "2020",
+        "summary": "CyberPatriot is the National Youth Cyber Education Program created by the Air & Space Forces Association to inspire K-12 students toward careers in cybersecurity or other science, technology, engineering, and mathematics (STEM) disciplines critical to our nation's future. At the core of the program is the National Youth Cyber Defense Competition, the nation's largest cyber defense competition that puts high school and middle school students in charge of securing virtual networks.",
+        "highlights": [
+          "Team 2 Cisco Networking Security Lead for Civil Air Patrol Squadron 56"
+        ]
+      }
+    ]
 }
