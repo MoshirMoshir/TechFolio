@@ -15,7 +15,7 @@
   --bs-font-sans-serif: "Inconsolata", monospace;
   --bs-link-color: var(--bs-orange);
   --bs-link-hover-color: var(--bs-white);
-  --tf-pill-bg: var(--tf-theme-light);
+  --tf-pill-bg: var(--tf-theme-mid);
   --tf-icon-fill: var(--bs-orange);
   --tf-icon-hover: var(--tf-white);
   --tf-page-bg-color: var(--tf-theme-dark);
