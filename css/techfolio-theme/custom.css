@@ -20,6 +20,7 @@
   --tf-page-bg-color: var(--tf-theme-light);
   --tf-projects-bg-color: var(--tf-theme-dark);
   --tf-footer-bg-color: var(--tf-test2);
+  color: var(--tf-text);
 }
 
 /* Format social media icons */
@@ -36,9 +37,9 @@
   fill: var(--tf-icon-hover);
 }
 
-h1,h2,h3,h4,h5,p {
+/* h1,h2,h3,h4,h5,p {
   color: var(--tf-text);
-}
+} */
 
 a {
   text-decoration: none;
