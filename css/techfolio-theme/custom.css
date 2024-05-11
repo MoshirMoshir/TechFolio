@@ -12,13 +12,13 @@
   --tf-white: #ffff;
   --tf-text: #f9f9fa;
   --bs-font-sans-serif: "Inconsolata", monospace;
-  --color: var(--tf-text);
+  color: var(--tf-text);
   --bs-link-color: var(--bs-orange);
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--bs-gray-500);
   --tf-page-bg-color: var(--tf-theme-mid);
-  --tf-projects-bg-color: var(--tf-theme-dark);
+  --tf-projects-bg-color: var(--tf-test);
   --tf-essays-bg-color: var(--tf-theme-mid);
   --tf-footer-bg-color: var(--tf-test);
 }
@@ -37,9 +37,9 @@
   fill: var(--tf-icon-hover);
 }
 
-h1,h2,h3,h4,h5,p {
+/* h1,h2,h3,h4,h5,p {
   color: var(--tf-text);
-}
+} */
 
 a {
   text-decoration: none;
