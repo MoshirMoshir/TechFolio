@@ -13,11 +13,12 @@ labels:
   - Web Development
 summary: "Moshir.dev, my personal website crafted from scratch, where each line of code represents a step in mastering HTML, CSS, and Javascript, creating a dynamic portfolio reflecting my growth, challenges overcome, and the fusion of creativity and technical proficiency."
 ---
-## **Crafting My Digital Canvas: [moshir.dev](https://moshir.dev/)**
 
 <div class="text-center p-4">
   <img width="700px" src="../img/MoshirDev/MoshirDev.png" class="img-thumbnail" >
 </div>
+
+## **Crafting My Digital Canvas: [moshir.dev](https://moshir.dev/)**
 
 Launched on the 24th of July 2022, [moshir.dev](https://moshir.dev/) stands as a testament to my continuous journey of learning and evolving in web development. Originally constructed with the aid of site templates and fueled by YouTube tutorials, the website has been a canvas for honing my skills in HTML, CSS, and Javascript. 
 
