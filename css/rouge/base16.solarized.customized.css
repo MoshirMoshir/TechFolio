@@ -2,9 +2,10 @@
 .highlight table pre { margin: 0; }
 .highlight, .highlight .w {
   color: #586e75;
+  background-color: #3d404f;
 }
 .highlight .err {
-  color: #3d404f;
+  color: #002b36;
   background-color: #dc322f;
 }
 .highlight .c, .highlight .cd, .highlight .cm, .highlight .c1, .highlight .cs {
@@ -30,7 +31,7 @@
 }
 .highlight .gh {
   color: #268bd2;
-  background-color: #3d404f;
+  background-color: #002b36;
   font-weight: bold;
 }
 .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
