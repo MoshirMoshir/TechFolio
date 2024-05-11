@@ -17,11 +17,13 @@ summary: "Toaster Eats is a web application aimed at improving the nutritional c
 
 Toaster Eats is a web application aimed at improving the nutritional content and variety of foods eaten by students, offering realistic alternatives to vending machine and fast food products.
 
+For more details, check out the project page: [toaster-eats.github.io](https://toaster-eats.github.io/)
+
 ### Overview
 
 Toaster Eats utilizes several frameworks including Meteor for JavaScript-based implementation of client and server code, React for component-based UI implementation and routing, and React Bootstrap CSS Framework for UI design.
 
-With a variety of pages, a few highlights are:
+With a variety of interfaces, a few highlights are:
 - **Landing Page**
   <div class="text-center p-4">
     <img width="700px" src="../img/ToasterEats/LandingPage.png" class="img-thumbnail" >
