@@ -20,7 +20,8 @@
   --tf-page-bg-color: var(--tf-theme-dark);
   --tf-projects-bg-color: var(--tf-theme-mid);
   --tf-essays-bg-color: var(--tf-theme-dark);
-  --tf-footer-bg-color: var(--tf-test2);
+  --tf-header-bg-color: var(--tf-theme-light);
+  --tf-footer-bg-color: var(--tf-theme-light);
   --tf-card-bg-color: var(--tf-theme-light);
 }
 
