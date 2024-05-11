@@ -41,6 +41,3 @@ While not flawless, we hope you find moments of joy in our creation. Have fun ex
 
 Feel free to check the game out here:
 <iframe frameborder="0" src="https://itch.io/embed/2041573" width="552" height="167"><a href="https://moshir.itch.io/terragrow">Terragrow by Moshir</a></iframe>
-
-
-<sub><sup>ChatGPT was used in assistance of creating this page</sup></sub>
