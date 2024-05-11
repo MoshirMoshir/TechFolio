@@ -6,6 +6,7 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-test: #de2f43;
+  --tf-test2: #1daf31;
   --tf-theme-dark: #1e1e27;
   --tf-theme-mid: #272833;
   --tf-theme-light: #3d404f;
@@ -16,9 +17,9 @@
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--bs-gray-500);
-  --tf-page-bg-color: var(--tf-test);
+  --tf-page-bg-color: var(--tf-theme-light);
   --tf-projects-bg-color: var(--tf-theme-dark);
-  --tf-footer-bg-color: var(--tf-test);
+  --tf-footer-bg-color: var(--tf-test2);
 }
 
 /* Format social media icons */
@@ -48,6 +49,7 @@ a {
   background-color: var(--tf-theme-mid);
   border-top: none;
 }
+
 /* add circle around profile image */
 .rounded-circle {
   border-color: var(--tf-theme-light);
