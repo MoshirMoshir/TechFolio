@@ -1,9 +1,5 @@
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
-.highlight, .highlight .w {
-  color: #586e75;
-  background-color: #3d404f;
-}
 .highlight .err {
   color: #002b36;
   background-color: #dc322f;
@@ -75,4 +71,11 @@
 }
 .highlight .ss {
   color: #859900;
+}
+.highlight .w {
+  color: #586e75;
+  
+}
+.highlight {
+background-color: #3d404f;
 }
