@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: img/BlueMaps/BlueMaps.jpg
-title: "BlueMaps"
-date: 2023-07-09
+image: img/ToasterEats/logo.png
+title: "ToasterEats"
+date: 2024-05-10
 published: true
 labels:
-  - HTML
-  - CSS
+  - Software Engineering
+  - Meteor
   - Javascript
-  - Game Dev
-summary: "Discover a new world with BlueMaps - a static website developed with a blend of languages to provide an interactive map for the game Dave the Diver."
+  - React
+  - Bootstrap
+summary: "Toaster Eats is a web application aimed at improving the nutritional content and variety of foods eaten by students, offering realistic alternatives to vending machine and fast food products"
 ---
 ## Toaster Eats
 
