@@ -19,7 +19,6 @@
   --tf-icon-hover: var(--bs-gray-500);
   --tf-page-bg-color: var(--tf-theme-mid);
   --tf-projects-bg-color: var(--tf-test);
-  --tf-essays-bg-color: var(--tf-theme-mid);
   --tf-footer-bg-color: var(--tf-test);
 }
 
@@ -45,9 +44,9 @@ a {
   text-decoration: none;
 }
 
-/* Simplify the styling of the bottom of Essay cards. */
+/* For Essays section */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--tf-theme-mid);
   border-top: none;
 }
 /* add circle around profile image */
