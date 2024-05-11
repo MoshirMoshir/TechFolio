@@ -39,7 +39,7 @@ I invite you to delve into the game, explore its nuances, and share your thought
 
 While not flawless, we hope you find moments of joy in our creation. Have fun exploring, and thank you for joining us on this exhilarating game development adventure!
 
-
+Feel free to check the game out here:
 <iframe frameborder="0" src="https://itch.io/embed/2041573" width="552" height="167"><a href="https://moshir.itch.io/terragrow">Terragrow by Moshir</a></iframe>
 
 
