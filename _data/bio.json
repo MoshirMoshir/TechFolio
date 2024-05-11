@@ -6,44 +6,146 @@
     "email": "moshir@hawaii.edu",
     "phone": "714-747-0675",
     "website": "https://techfolio.moshir.dev/",
-    "summary": "I am currently pursuing a B.S. in Computer Science within the Department of Information and Computer Sciences at the University of Hawaii, with an anticipated graduation in Spring 2025. In parallel, I am actively participating in the AFROTC program, preparing to commission as an Officer in the U.S. Air Force upon completion of my degree.",
-    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am currently pursuing a B.S. in Computer Science within the Department of Information and Computer Sciences at the University of Hawaii, with an anticipated graduation in Fall 2026. In parallel, I am actively participating in the AFROTC program, preparing to commission as an Officer in the U.S. Air Force upon completion of my degree.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "moshirmoshir", "url": "https://github.com/MoshirMoshir" },
       { "network": "linkedin", "username": "alexandermoshir", "url": "https://www.linkedin.com/in/alexandermoshir/" }
     ]
   },
   "interests": [
-    { "name": "Japan" },
-    { "name": "Game Dev" },
-    { "name": "Flying" },
     { "name": "Software Dev"},
-    { "name": "Anime & Manga" },
+    { "name": "Game Dev" },
+    { "name": "Web Design"},
+    { "name": "Cybersecurity" },
+    { "name": "Computer Engineering" },
+    { "name": "Networks" },
+    { "name": "Japanese" },
     { "name": "Cooking" },
-    { "name": "Technology" },
-    { "name": "Video Games" },
-    { "name": "Board Games" },
-    { "name": "Piano" }
+    { "name": "Piano" },
+    { "name": "Air Force" },
+    { "name": "Flying" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C#", "C++", "Java", "Javascript", "Python", "Lua" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "Typescript", "Python", "HTML", "PHP", "Lua", "Markdown" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Unix", "GitHub", "vscode", "Notepad.exe" ]
+      "keywords": [ "Windows", "Unix", "Linux", "Cisco IOS", "Git", "GitHub", "VSCode", "Eclipse", "IntelliJ", "Notepad", "Vi", "Vim" ]
+    }
+  ],
+  "experience": [
+    {
+      "name": "TrueNAS Server Management",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Managing and maintaining a self-built TrueNAS server for personal use and hosting services for friends and family.",
+      "highlights": [
+        "Configuring and managing TrueNAS Core",
+        "Utilizing Unix to create and manage jails and VMs with tools such as vi and shell",
+        "Setting up and maintaining services including Plex, Calibre, Sonarr, and Tautulli",
+        "Deploying and managing game servers by utilizing services such as MineOS or configuring them in custom jails",
+        "Utilizing SMB for file transfers between devices on the network"
+      ]
+    },
+    {
+      "name": "Webapp Development",
+      "position": "BlueMaps",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Developing and maintaining BlueMaps, a webapp that provides an interactive map of the Blue Hole from the game Dave the Diver",
+      "highlights": [
+        "Utilizing HTML, CSS, and Javascript to create the front-end of the static webpage",
+        "Working with GitHub Pages to host the website and manage version control",
+        "Implementing Leaflet to create an interactive Map and UI",
+        "Designing Overlays and Maps with Krita"
+      ]
+    },
+    {
+      "name": "Cyber Security Training",
+      "position": "Part-Time",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Training sponsored by the Office of Naval Research offered to ROTC STEM students at UH Manoa. Utilizing Linux tools and security software to learn cyber security technical skills."
+    },
+    {
+      "name": "CyberPatriots",
+      "position": "Cisco Security Lead",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "CyberPatriot is the National Youth Cyber Education Program created by the Air & Space Forces Association to inspire K-12 students toward careers in cybersecurity or other science, technology, engineering, and mathematics (STEM) disciplines critical to our nation's future. At the core of the program is the National Youth Cyber Defense Competition, the nation's largest cyber defense competition that puts high school and middle school students in charge of securing virtual networks.",
+      "highlights": [
+        "Team 2 Cisco Networking Security Lead for Civil Air Patrol Squadron 56"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "B.S.",
+      "area": "Computer Science Security Track",
+      "studyType": "Bachelor of Science.",
       "startDate": "2021",
       "endDate": "Present",
       "courses": [
+        "AS 101 & 102: Foundations of U.S. Air Force",
+        "AS 101L & 102L: Initial Military Training",
+        "MATH 242: Calculus II",
+        "PSY 100: Survey of Psychology",
+        "ENG 100: Composition I",
+        "ICS 141: Discrete Mathematics for Computer Science I",
+        "ICS 211: Introduction to Computer Science II",
+        "SUST 157: Global Environmental History",
+        "ASAN 465: Anime, Manga and Film",
+        "JPN 101: Elementary Japanese",
+        "TIM 102: Food and World Cultures",
+        "AS 201 & 202: The Evolution of USAF Air and Space Power",
+        "AS 201L & 202L: Field Training Preparation",
+        "ICS 241: Discrete Mathematics for Computer Science II",
+        "CHEM 161: General Chemistry I",
+        "CHEM 161L: General Chemistry I Lab",
+        "ENG 311: Autobiographical Writing",
+        "LLEA 371: Europeans of the Pacific",
+        "ASAN 320Z: Asia Past & Present",
+        "COM 460: Media Ethics",
+        "REL 204: Understanding Japanese Religion",
+        "AS 301 & 302: Air Force Leadership Studies",
+        "AS 301L & 302L: Intermediate Cadet Leader",
+        "ICS 212: Program Structure",
+        "ICS 222: Basic Concepts of Computer Science",
+        "PHYS 151: College Physics I",
+        "PHYS 151L: College Physics I Lab",
+        "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems I",
+        "JPN 102: Elementary Japanese II",
+        "PHYS 152: College Physics II"
       ]
+    },
+    {
+      "institution": "Servite High School, Anaheim, CA",
+      "area": "High School Diploma",
+      "studyType": "High School",
+      "startDate": "2017",
+      "endDate": "2021",
+      "courses": [
+        "AP US History",
+        "AP Government and Economics",
+        "AP European History",
+        "AP Calculus AB",
+        "AP Biology",
+        "AP Computer Science Principles",
+        "AP Computer Science A",
+        "AP English Language and Composition",
+        "AP English Literature and Composition"
+      ]
+    },
+    {
+      "institution": "St. Catherine's Academy, Anaheim, CA",
+      "area": "Middle School Diploma",
+      "studyType": "Military School",
+      "startDate": "2016",
+      "endDate": "2017"
     }
   ]
 }
