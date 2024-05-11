@@ -35,12 +35,11 @@
   fill: var(--tf-icon-hover);
 }
 
-h1,h2,h3,h4,h5 {
+h1,h2,h3,h4,h5,p {
   color: var(--tf-text);
 }
 
 a {
-  color: var(--tf-text);
   text-decoration: none;
 }
 
