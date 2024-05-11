@@ -40,7 +40,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science Security Track",
-      "studyType": "Bachelor of Science.",
+      "studyType": "Bachelor of Science",
       "startDate": "2021",
       "endDate": "Present",
       "courses":[
@@ -97,7 +97,7 @@
   "work": [
     {
       "company": "Cyber Security Training",
-      "position": "Part-Time",
+      "position": "Part-Time + Trainee",
       "startDate": "2021",
       "endDate": "2023",
       "summary": "Training sponsored by the Office of Naval Research offered to ROTC STEM students at UH Manoa. Utilizing Linux tools and security software to learn cyber security technical skills."
@@ -128,9 +128,9 @@
           "Utilizing HTML, CSS, and Javascript to create the front-end of the static webpage",
           "Working with GitHub Pages to host the website and manage version control",
           "Implementing Leaflet to create an interactive Map and UI",
-          "Designing Overlays and Maps with Krita"
-        ],
-        "url": "https://bluemaps.moshir.dev/"
+          "Designing Overlays and Maps with Krita",
+          "url: https://bluemaps.moshir.dev/"
+        ]
       },
       {
         "organization": "CyberPatriots",
