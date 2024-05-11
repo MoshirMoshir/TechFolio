@@ -52,5 +52,5 @@ a {
 .rounded-circle {
   border-color: var(--tf-theme-light);
   border-style: solid;
-  border-width: 3px;
+  border-width: 5px;
 }
