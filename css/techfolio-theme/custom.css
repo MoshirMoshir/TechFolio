@@ -17,9 +17,10 @@
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--bs-gray-500);
-  --tf-page-bg-color: var(--tf-theme-dark);
-  --tf-footer-bg-color: var(--tf-theme-light);
-  --tf-projects-bg-color: var(--tf-theme-mid);
+  --tf-page-bg-color: var(--tf-theme-mid);
+  --tf-projects-bg-color: var(--tf-theme-dark);
+  --tf-essays-bg-color: var(--tf-theme-mid);
+  --tf-footer-bg-color: var(--tf-test);
 }
 
 /* Format social media icons */
