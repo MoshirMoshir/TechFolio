@@ -9,13 +9,15 @@
   --tf-background-mid: #272833;
   --tf-background-light: #3d404f;
   --tf-white: #ffff;
+  --tf-text: #f9f9fa;
   --bs-font-sans-serif: "Inconsolata", monospace;
+  --color: var(--tf-text);
   --bs-link-color: var(--bs-orange);
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--bs-gray-500);
-  --tf-page-bg-color: var(--tf-background-light);
-  --tf-footer-bg-color: var(--bs-gray-200);
+  --tf-page-bg-color: var(--tf-background-dark);
+  --tf-footer-bg-color: var(--tf-background-light);
   --tf-projects-bg-color: var(--tf-background-mid);
 }
 
