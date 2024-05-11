@@ -92,7 +92,7 @@
       "studyType": "Bachelor of Science.",
       "startDate": "2021",
       "endDate": "Present",
-      "courses": [
+      "_comment": [
         "AS 101 & 102: Foundations of U.S. Air Force",
         "AS 101L & 102L: Initial Military Training",
         "MATH 242: Calculus II",
@@ -132,7 +132,7 @@
       "studyType": "High School",
       "startDate": "2017",
       "endDate": "2021",
-      "courses": [
+      "_comment": [
         "AP U.S. History",
         "AP Government and Politics",
         "AP European History",
